@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for http://gallagherdesign.com/creative-approach",
+  "description": "Functional testing for http://gallagherdesign.com/creative-approach site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
